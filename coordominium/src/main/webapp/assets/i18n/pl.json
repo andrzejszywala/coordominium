@@ -1,0 +1,63 @@
+{       
+    "app": {
+        "home": "Start",
+        "save": "Zapisz",
+        "cancel": "Anuluj",
+        "delete": "Usuń",
+        "edit": "Edytuj"
+    },
+    "enum": {
+        "provider" : {
+            "GPS": "gps",
+            "NETWORK": "sieć"
+        }
+    },
+    "menu": {
+        "devices": "Urządzenia",
+        "map": "Mapa",
+        "events": "Wydarzenia"
+    },
+    "dashboard": {
+
+    }, 
+    "coordinates": {
+        "time": "Czas",
+        "latitude": "Szerokość",
+        "longitude": "Długość"
+    },
+    "devices": {
+        "add": "Dodaj nowe urządzenie",
+        "title": "Nowe urządzenie",
+        "name": "Nazwa urządzenia",
+        "description": "Opis",       
+        "time": "Czas",
+        "latitude": "Szerokość",
+        "longitude": "Długość",
+        "devices": "Urządzenia",
+        "confirmDelete": "Czy na pewno usunąć wybrane urządzenie?"
+    },
+    "map": {
+        "filter": "Filtr",
+        "device": "Urządzenie",
+        "search": "Szukaj",
+        "network": "Sieć",
+        "gps": "Gps",
+        "from": "Początek",
+        "to": "koniec",
+        "now": "obecnie"
+    },
+    "events": {
+        "upcoming": "Nadchodzące",
+        "past": "Wydarzenia z przeszłości",
+        "new": "Utwórz wydarzenie", 
+        "join": "Dołącz",
+        "leave": "Opuść"
+    },
+    "event": {
+        "title": "Nowe wydarzenie",
+        "name": "Nazwa wydarzenia",
+        "description": "Opis",
+        "start": "Rozpoczęcie wydarzenia",
+        "end": "Koniec wydarzenia"
+    }
+}

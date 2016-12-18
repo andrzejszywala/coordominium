@@ -1,0 +1,64 @@
+{   
+    "app": {
+        "home": "Home",
+        "save": "Save",
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "edit": "Edit"
+    },
+    "enum": {
+        "provider" : {
+            "GPS": "gps",
+            "NETWORK": "network"
+        }
+    },
+    "menu": {
+        "devices": "Devices",
+        "map": "Map",
+        "events": "Events"
+    },
+    "dashboard": {
+
+    }, 
+    "coordinates": {
+        "time": "Time",
+        "latitude": "Latitude",
+        "longitude": "Longitude"
+    },
+    "devices": {
+        "add": "Add new device",
+        "title": "New device",
+        "name": "Device name",
+        "description": "Description",        
+        "time": "Time",
+        "latitude": "Latitude",
+        "longitude": "Longitude",
+        "devices": "Devices",
+        "confirmDelete": "Are you sure that you want to permanently delete the selected device?"
+    },
+    "map": {
+        "filter": "Filter",
+        "device": "Device",
+        "search": "Search",
+        "network": "Network",
+        "gps": "Gps",
+        "from": "Start",
+        "to": "end",
+        "now": "now"
+    },
+    "events": {
+        "upcoming": "Upcoming",
+        "past": "Past",
+        "new": "Create event", 
+        "join": "Join",
+        "leave": "Leave"
+    },
+    "event": {
+        "title": "New event",
+        "name": "Event name",
+        "description": "Description",
+        "start": "Start",
+        "end": "End"
+
+    }
+}

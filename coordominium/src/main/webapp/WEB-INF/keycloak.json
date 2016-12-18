@@ -1,0 +1,10 @@
+{
+  "realm": "coordominium",
+  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnWHU5ERuJuxyUVqduN/iLPN+KODM0rrl/iYop0ffYueEopwaI9c6gDBjAy4x+xZPuPrNui1SuM6LGSd+5C7Ot5Kik6geNg8mdoPNrg0QgEGFXA07hIb0ABFbz1x0ssLMoVorqDGmGXbII+TnedNP6CNpzVtUbjIPosoBVqYOAv8oiC5HfCdMYiKmaKMzPVtYua/BTLaLmkySJwguBMqODSDqbs56Kg3PbMT8KTk559zU08NCbzv6nP+D91rDV4yLgAGLsD7XMmrNiFF9TZ+4jk4HpI/8ELhIsMGyFMkMgPB862+zO3hK4kYGIQPyIxzOqOzmGeD0XxdCaN1oI+YeIQIDAQAB",
+  "auth-server-url": "https://keycloak-andrzej.rhcloud.com/auth",
+  "ssl-required": "none",
+  "resource": "coordominium",
+  "credentials": {
+    "secret": "ce31b219-0ef4-46a9-9c6e-50e980d9ec3b"
+  }  
+}
